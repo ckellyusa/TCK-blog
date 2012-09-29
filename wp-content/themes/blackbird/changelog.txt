@@ -1,0 +1,15 @@
+== Changelog ==
+
+= Theme Name: Blackbird Theme Pro=
+
+= Version: 1.1.1 =
+
+* * Miner Change In Admin Css.
+
+= Version: 1.1 =
+
+* * Header Html Errox Fixed.
+
+= Version: 1.0 =
+
+* * Blackbird Theme is created on 9/07/2012.
